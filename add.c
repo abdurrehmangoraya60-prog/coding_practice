@@ -1,9 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    int a,b,c;
-    a=5;
-    b=10;
-    c=a+b;
-    printf("%d",c);
+	for(int i=1;i<=100;i++)
+	   printf("sorry\n");
 }
